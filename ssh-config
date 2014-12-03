@@ -1,0 +1,6 @@
+Host <name>
+	HostName <host_name or host_address e.g. 'sample.sample.com'>
+	Port <port>
+	User <user>
+	IdentityFile <ssh-key>
+	ForwardAgent yes
